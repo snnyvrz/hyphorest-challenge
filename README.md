@@ -1,6 +1,6 @@
 # Hyphorest
 
-Hyphorest is a project designed to simplify and enhance your development workflow. It provides tools and utilities to streamline processes, improve productivity, and ensure maintainable code.
+Hyphorest is a Carbon Footprint Visualizer designed to help users understand their environmental impact. By inputting basic lifestyle data such as transportation habits, dietary preferences, and household energy consumption, users can visualize their personal carbon footprint. The application features custom charts to display carbon impact across various categories and includes comparison tools to benchmark individual results against national or global averages.
 
 ## Features
 
